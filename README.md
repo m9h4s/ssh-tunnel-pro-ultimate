@@ -397,7 +397,7 @@ SOFTWARE.
 
 [![Website](https://img.shields.io/badge/Website-mhsoleymani.ir-blue?style=for-the-badge)](https://mhsoleymani.ir)
 [![GitHub](https://img.shields.io/badge/GitHub-m9h4s-black?style=for-the-badge)](https://github.com/m9h4s)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](https://mhsoleymani.ir/contact)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](https://mhsoleymani.ir/#contact)
 
 **Open Source Developer • Network Security Specialist • Python Enthusiast**
 
@@ -409,7 +409,7 @@ SOFTWARE.
 
 [![وبسایت](https://img.shields.io/badge/وبسایت-mhsoleymani.ir-blue?style=for-the-badge)](https://mhsoleymani.ir)
 [![گیت‌هاب](https://img.shields.io/badge/گیت‌هاب-m9h4s-black?style=for-the-badge)](https://github.com/m9h4s)
-[![ایمیل](https://img.shields.io/badge/ایمیل-تماس-قرمز?style=for-the-badge)](https://mhsoleymani.ir/contact)
+[![ایمیل](https://img.shields.io/badge/ایمیل-تماس-قرمز?style=for-the-badge)](https://mhsoleymani.ir/#contact)
 
 **توسعه‌دهنده نرم‌افزار متن‌باز • متخصص امنیت شبکه • علاقه‌مند به پایتون**
 
